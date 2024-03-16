@@ -1,0 +1,28 @@
+.relativeproducts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 50x;
+}
+.relativeproducts h2{
+    color: #171717;
+    font-size: 3em;
+    font-weight: 600;
+}
+.relativeproducts hr{
+    width: 200px;
+    height: 3px;
+    border-radius: 10px;
+    background: #252525;
+
+}
+.relativeproducts_item{
+    margin-top:50px;
+display: flex;
+gap: 30px;
+
+}
+.relativeproducts_item img{
+    max-width: 100%;
+}
